@@ -2,6 +2,11 @@
 Changelog for package phoxi_camera
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.3 (2016-08-16)
+------------------
+* fix bug
+* Contributors: Matej Sladek
+
 0.0.2 (2016-08-15)
 ------------------
 * add gitignore

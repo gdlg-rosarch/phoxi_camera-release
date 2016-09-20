@@ -1,0 +1,47 @@
+ros-kinetic-phoxi-camera (1.1.3-0jessie) jessie; urgency=high
+
+
+
+ -- filip <filip@todo.todo>  Mon, 22 Aug 2016 22:00:00 -0000
+
+ros-kinetic-phoxi-camera (0.0.3-0jessie) jessie; urgency=high
+
+  * fix bug
+  * Contributors: Matej Sladek
+
+ -- filip <filip@todo.todo>  Mon, 15 Aug 2016 22:00:00 -0000
+
+ros-kinetic-phoxi-camera (0.0.2-0jessie) jessie; urgency=high
+
+  * add gitignore
+  * Contributors: Matej Sladek
+
+ -- filip <filip@todo.todo>  Sun, 14 Aug 2016 22:00:00 -0000
+
+ros-kinetic-phoxi-camera (0.0.1-0jessie) jessie; urgency=high
+
+  * change path to phoxi, remove boost in cmake, rename confidence parameter, remove acquisition_time parameter
+  * Update README.md
+  * Update README.md
+  * Update README.md
+  * Update README.md
+  * Merge pull request #1 <https://github.com/photoneo/phoxi_camera/issues/1> from photoneo/matej
+    Services, example
+  * clean
+  * add example
+  * clean project and add isConnected service
+  * fix services
+  * add services
+  * add services
+  * fix services, delete AddTwoInts, add GetdeviceList
+  * add example service
+  * add parameters
+  * change paths to PhoXiControl libs and include dir
+  * init changes
+  * init
+  * Initial commit
+  * Contributors: Matej Sladek
+
+ -- filip <filip@todo.todo>  Sun, 14 Aug 2016 22:00:00 -0000
+
+

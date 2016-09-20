@@ -1,0 +1,12 @@
+Source: ros-kinetic-phoxi-camera
+Section: misc
+Priority: extra
+Maintainer: filip <filip@todo.todo>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-dynamic-reconfigure, ros-kinetic-message-generation, ros-kinetic-pcl-ros, ros-kinetic-roscpp, ros-kinetic-roslib, ros-kinetic-rospy, ros-kinetic-sensor-msgs, ros-kinetic-std-msgs, ros-kinetic-std-srvs, ros-kinetic-tf
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-phoxi-camera
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-dynamic-reconfigure, ros-kinetic-message-runtime, ros-kinetic-pcl-ros, ros-kinetic-roscpp, ros-kinetic-roslib, ros-kinetic-rospy, ros-kinetic-sensor-msgs, ros-kinetic-std-msgs, ros-kinetic-std-srvs, ros-kinetic-tf
+Description: The phoxi_camera package

@@ -1,3 +1,26 @@
+## phoxi_camera (indigo) - 1.1.4-0
+
+The packages in the `phoxi_camera` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo phoxi_camera` on `Mon, 24 Oct 2016 14:37:31 -0000`
+
+The `phoxi_camera` package was released.
+
+Version of package(s) in repository `phoxi_camera`:
+
+- upstream repository: https://github.com/photoneo/phoxi_camera.git
+- release repository: https://github.com/photoneo/phoxi_camera-release.git
+- rosdistro version: `1.1.3-0`
+- old version: `1.1.3-0`
+- new version: `1.1.4-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.22`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.39`
+
+
 ## phoxi_camera (kinetic) - 1.1.3-1
 
 The packages in the `phoxi_camera` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release phoxi_camera --track kinetic --rosdistro kinetic` on `Tue, 20 Sep 2016 12:33:45 -0000`
